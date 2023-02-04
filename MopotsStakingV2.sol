@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.4;
 
-import "---";
+import "https://github.com/mpots-dev/mopots-contractsV2/blob/main/MopotsTokenV2.sol";
 import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 
